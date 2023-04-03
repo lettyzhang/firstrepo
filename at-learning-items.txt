@@ -1,0 +1,8 @@
+Java
+Selenium
+Jmeter
+DB
+Git
+Linux
+Maven
+Jenkins
