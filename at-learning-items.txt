@@ -1,6 +1,8 @@
 Java
 Selenium
 Cucumber
+Junit
+user1
 Jmeter
 DB
 Git
