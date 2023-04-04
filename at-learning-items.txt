@@ -5,11 +5,14 @@ Junit
 user1
 Jmeter
 DB
+  SQL
 Git
 Linux
-Maven
+Maven + Nexus
 Jenkins
+  Jenkins file in GitHub
 Spring
+  Spring IoC/AOP/MVC, SpringBoot, SpringMybits
 
 Test1
 Steve test
