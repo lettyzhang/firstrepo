@@ -7,7 +7,13 @@ Jmeter
 DB
   SQL
 Git
+  Create accout
+  Create repository, clone/pull/status/branch/checkout/add/commit/push/merge
 Linux
+  Install VMWare + Linux
+  Shell
+  Docker
+  K8S
 Maven + Nexus
 Jenkins
   Jenkins file in GitHub
