@@ -1,4 +1,6 @@
 Java
+  2021最新版JDK8新特性详解Lambda&Stream&Optional等
+  https://www.bilibili.com/video/BV1k64y1R7sA/
 Selenium
 Cucumber
 Junit
@@ -12,13 +14,38 @@ Git
 Linux
   Install VMWare + Linux
   Shell
+  Ansible
+    Ansible的简单介绍入门
+    https://blog.51cto.com/shaonian/1883304
   Docker
   K8S
 Maven + Nexus
 Jenkins
   Jenkins file in GitHub
+  
+  Jenkins 安装使用教程
+  https://my.oschina.net/u/4413093/blog/3662115?hmsr=kaifa_aladdin
+UI Development
+  web前端开发课程详细目录
+  http://web.itcast.cn/
+  
+  【黑马！真的很详细！】CSS3-flex布局(flex布局的单个知识点忘记也可以复习)
+  https://www.bilibili.com/video/BV1N54y1i7dG/
+  
+  B站讲的最好的Webpack原理与实践
+  https://www.bilibili.com/video/BV1Ju41117TD/
 Spring
   Spring IoC/AOP/MVC, SpringBoot, SpringMybits
+  
+  手写Spring源码，阿里P8架构师花900分钟带你搞懂Spring面试核心知识！|周瑜
+  https://www.bilibili.com/video/BV1q64y1d74k/
+  
+  2021必学的手写七大Java框架源码|周瑜（Spring、mysql、Dubbo、Tomcat、Hashmap、分布式事务...）
+  https://www.bilibili.com/video/BV1ff4y1r7bP/
+  
+  月薪30K必学的手撕（Spring、Spring MVC、Spring Boot、MyBatis）框架源码教程 | 图灵周瑜亲授
+  https://www.bilibili.com/video/BV1u14y1N78z/
+  
+  终于有资深架构师把springboot的源码讲清楚了！
+  https://www.bilibili.com/video/BV1pB4y1u7gN/
 
-Test1
-Steve test
